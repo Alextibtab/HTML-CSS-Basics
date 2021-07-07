@@ -1,0 +1,21 @@
+SEO Code
+<meta name="description" content="etc..." />
+<meta charset="utf-8" />
+<meta name="robots" content="index,follow" />
+
+Mobile layout
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+CSS set font size to 10px for easier rem conversion
+
+html {
+    font-size: 62.5%
+}
+
+CSS to remove default styling
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
