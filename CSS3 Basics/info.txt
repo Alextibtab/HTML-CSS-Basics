@@ -1,0 +1,3 @@
+This section was pretty simple and covered basics such as classes and ids
+
+covered speficity
